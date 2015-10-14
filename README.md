@@ -4,7 +4,7 @@ Angular input dropdown is an angular directive for creating an input field with 
 If used in a form and `input-required` is set to true, the input field will validate only when an item from the dropdown list has been selected.
 
 ## Demo
-A demo can be viewed <a href="http://embed.plnkr.co/MO4go8Zr5moYKNhBt4wr/preview">here</a>.   
+A demo can be viewed <a href="http://embed.plnkr.co/cnPM0J/preview">here</a>.   
 The demo code can also be found in /demo.
 
 ## Installation
@@ -58,15 +58,15 @@ Some basics styles are included in the `inputDropdownStyles.css` file. To overwr
 }
 
 .input-dropdown ul {
-  /* Style the dropdown list */
+  /* Style the drowndown list */
 }
 
 .input-dropdown ul > li {
-  /* Style the dropdown list item */
+  /* Style the drowndown list item */
 }
 
 .input-dropdown ul > li.active {
-  /* Style the dropdown list item when active.
+  /* Style the drowndown list item when active.
     The active class is added to an item on mouse over or when it's selected with the arrow keys. */
 }
 ```
